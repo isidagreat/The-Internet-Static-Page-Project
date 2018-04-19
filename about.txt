@@ -1,0 +1,4 @@
+This Project consist of recreating a Static WebPage called The Internet
+
+Isidro Arzate
+04/19/2018
